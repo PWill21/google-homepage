@@ -1,0 +1,17 @@
+body {
+	margin-right: auto;
+	margin-left: auto;
+	width: 900px;
+}
+
+img {
+	text-align: center;
+	margin-left: 25px;
+	margin-right: auto;
+}
+
+input {
+	margin: auto;
+	height: 40px;
+	width: 600px;
+}
