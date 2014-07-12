@@ -15,8 +15,7 @@ img {
 	display: block;
 
 }
-
-input {
+#search_bar {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -24,4 +23,17 @@ input {
 	width: 528px;
 	padding: 5px 30px 6px 6px;
 	border: 1px solid gray;
+}
+.submit_reset {
+	width: 400px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}
+#submit, #reset {
+	height: 28px;
+	padding: 0 10px;
+	margin: 0 10px;
+	font-size: 11px;
 }
