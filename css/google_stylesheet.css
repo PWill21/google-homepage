@@ -1,4 +1,5 @@
 body {
+
 }
 nav li {
 	display: inline;
@@ -36,4 +37,10 @@ img {
 	padding: 0 10px;
 	margin: 0 10px;
 	font-size: 11px;
+}
+footer {
+
+}
+footer ul, li {
+	display: inline;
 }
